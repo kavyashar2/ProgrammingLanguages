@@ -7,5 +7,5 @@ This project involves the coursework from Programming Languages at Santa Clara U
 - Pascal
 - C++
 - Smalltalk 
-- ML (Meta Language)
+- SML (Standard Meta Language)
 - Scheme
